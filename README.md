@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello Everyone,
+
+My name is Dinesh Boinapally and I am from India
